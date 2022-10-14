@@ -1,1 +1,6 @@
-This is child
+{
+public static void main(args[])
+{
+system.print.out.ln("Hello")
+}
+}
